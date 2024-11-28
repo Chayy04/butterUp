@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302130084268",
+    "project_id": "butterupp-d660e",
+    "storage_bucket": "butterupp-d660e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302130084268:android:a75f72e10eb1eeb4b1a209",
+        "android_client_info": {
+          "package_name": "com.example.butter_upp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9YAHylbtHmMhWt3IU6lxvKHkT5e-jbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302130084268:android:37c0c34becec4a3bb1a209",
+        "android_client_info": {
+          "package_name": "com.example.butterupp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9YAHylbtHmMhWt3IU6lxvKHkT5e-jbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
